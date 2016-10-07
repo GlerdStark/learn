@@ -5,3 +5,5 @@ Git tracks changes and fuck
 Creating a new branch is quick and simple 
 
 Creating a new branch is quick and simple 
+ hacking it
+ is easy
